@@ -1,7 +1,7 @@
 	
   	body {
         font-family: Roboto;
-      background: -webkit-linear-gradient(90deg, #e42bc5 10%, #f88103ba 90%); }
+      background: -webkit-linear-gradient(90deg, #e42bc5 10%, #f803f4ff 90%); }
     
     
     ul {
@@ -58,7 +58,7 @@
     
     input {
         font-size: 18px;
-        color: #2980b9;
+        color: #7c7b7b;
         background-color: #f7f7f7;
         width: 100%;
         padding: 13px 13px 13px 20px;

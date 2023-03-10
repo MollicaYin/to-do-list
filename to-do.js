@@ -1,6 +1,3 @@
-to-do.js
-
-
 $(document).ready(function(){
     
     $("ul").on("click", "li", function(){
